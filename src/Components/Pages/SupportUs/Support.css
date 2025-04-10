@@ -1,0 +1,15 @@
+.supportus-container{
+    min-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.supportus-container h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.supportus-container p{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
